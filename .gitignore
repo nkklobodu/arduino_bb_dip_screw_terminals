@@ -11,3 +11,4 @@
 # ignore all directories ending with backups
 **/*backups/
 
+*.lck
